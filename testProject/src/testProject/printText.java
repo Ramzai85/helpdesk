@@ -6,6 +6,7 @@ public class printText {
 		// TODO Auto-generated method stub
 		System.out.println("Test Project");
 		System.out.println("Test Project");
+		System.out.println("Test Project");
 	}
 
 }
